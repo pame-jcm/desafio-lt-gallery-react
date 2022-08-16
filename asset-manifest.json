@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/desafio-lt-gallery-react/static/css/main.e3abb827.css",
+    "main.js": "/desafio-lt-gallery-react/static/js/main.b86e82ed.js",
+    "static/js/787.f32f77de.chunk.js": "/desafio-lt-gallery-react/static/js/787.f32f77de.chunk.js",
+    "static/media/img2.jpg": "/desafio-lt-gallery-react/static/media/img2.265da92942eb31a1bf98.jpg",
+    "static/media/img4.jpg": "/desafio-lt-gallery-react/static/media/img4.36aafe74235038b3ba08.jpg",
+    "static/media/img10.jpg": "/desafio-lt-gallery-react/static/media/img10.420db0c60b81743a1df7.jpg",
+    "static/media/img13.jpg": "/desafio-lt-gallery-react/static/media/img13.556160a2153175242d04.jpg",
+    "static/media/img11.jpg": "/desafio-lt-gallery-react/static/media/img11.053f948506acbb4acf06.jpg",
+    "static/media/img14.jpg": "/desafio-lt-gallery-react/static/media/img14.61fcad9910753ea5aed5.jpg",
+    "static/media/img9.jpg": "/desafio-lt-gallery-react/static/media/img9.092d43e9eb2e787d5781.jpg",
+    "static/media/img5.jpg": "/desafio-lt-gallery-react/static/media/img5.18db81ba6bf6186b9bc4.jpg",
+    "static/media/img12.jpg": "/desafio-lt-gallery-react/static/media/img12.b30ceb31303818aac12e.jpg",
+    "static/media/img15.jpg": "/desafio-lt-gallery-react/static/media/img15.6f13d5b4c489eb87227c.jpg",
+    "static/media/img6.jpg": "/desafio-lt-gallery-react/static/media/img6.d7c563e2c410f0431214.jpg",
+    "static/media/img16.jpg": "/desafio-lt-gallery-react/static/media/img16.6eb5613fc2bee3772060.jpg",
+    "static/media/img7.jpg": "/desafio-lt-gallery-react/static/media/img7.a4b0e2538cd62216c9da.jpg",
+    "static/media/img8.jpg": "/desafio-lt-gallery-react/static/media/img8.33c6706f3eea8f8fc2a5.jpg",
+    "static/media/img1.jpg": "/desafio-lt-gallery-react/static/media/img1.5b09eb183faabdd985d3.jpg",
+    "static/media/img3.jpg": "/desafio-lt-gallery-react/static/media/img3.98d76b5ffeff21b28d01.jpg",
+    "index.html": "/desafio-lt-gallery-react/index.html",
+    "main.e3abb827.css.map": "/desafio-lt-gallery-react/static/css/main.e3abb827.css.map",
+    "main.b86e82ed.js.map": "/desafio-lt-gallery-react/static/js/main.b86e82ed.js.map",
+    "787.f32f77de.chunk.js.map": "/desafio-lt-gallery-react/static/js/787.f32f77de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3abb827.css",
+    "static/js/main.b86e82ed.js"
+  ]
+}
