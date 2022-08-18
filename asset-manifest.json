@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/desafio-lt-gallery-react/static/css/main.e3abb827.css",
-    "main.js": "/desafio-lt-gallery-react/static/js/main.b86e82ed.js",
+    "main.css": "/desafio-lt-gallery-react/static/css/main.5ee611a6.css",
+    "main.js": "/desafio-lt-gallery-react/static/js/main.df95aad9.js",
     "static/js/787.f32f77de.chunk.js": "/desafio-lt-gallery-react/static/js/787.f32f77de.chunk.js",
     "static/media/img2.jpg": "/desafio-lt-gallery-react/static/media/img2.265da92942eb31a1bf98.jpg",
     "static/media/img4.jpg": "/desafio-lt-gallery-react/static/media/img4.36aafe74235038b3ba08.jpg",
@@ -20,12 +20,12 @@
     "static/media/img1.jpg": "/desafio-lt-gallery-react/static/media/img1.5b09eb183faabdd985d3.jpg",
     "static/media/img3.jpg": "/desafio-lt-gallery-react/static/media/img3.98d76b5ffeff21b28d01.jpg",
     "index.html": "/desafio-lt-gallery-react/index.html",
-    "main.e3abb827.css.map": "/desafio-lt-gallery-react/static/css/main.e3abb827.css.map",
-    "main.b86e82ed.js.map": "/desafio-lt-gallery-react/static/js/main.b86e82ed.js.map",
+    "main.5ee611a6.css.map": "/desafio-lt-gallery-react/static/css/main.5ee611a6.css.map",
+    "main.df95aad9.js.map": "/desafio-lt-gallery-react/static/js/main.df95aad9.js.map",
     "787.f32f77de.chunk.js.map": "/desafio-lt-gallery-react/static/js/787.f32f77de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3abb827.css",
-    "static/js/main.b86e82ed.js"
+    "static/css/main.5ee611a6.css",
+    "static/js/main.df95aad9.js"
   ]
 }
